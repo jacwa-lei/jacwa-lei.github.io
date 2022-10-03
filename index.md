@@ -6,7 +6,7 @@
 quoting code
 ```
 [External links](canvas.ucsd.edu)
-[Section links (tba)](canvas.ucsd.edu)
+[Section links](./index.md#headings)
 [Relative links](./README.md)
 - This
 - is
