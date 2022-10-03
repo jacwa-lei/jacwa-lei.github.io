@@ -15,5 +15,5 @@ quoting code
 2. is also
 3. a list
 - [x] This
-- [] is another
-- [] list
+- [ ] is another
+- [ ] list
